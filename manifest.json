@@ -1,0 +1,21 @@
+{
+  "name": "Contato Certo SP",
+  "short_name": "ContatoCerto",
+  "description": "Quem procura, acha. Quem anuncia, vende.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E8F0FE",
+  "theme_color": "#1E40AF",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
